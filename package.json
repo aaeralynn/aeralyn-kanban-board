@@ -5,6 +5,7 @@
     "react-router-dom": "^7.4.1"
   },
   "devDependencies": {
+    "@types/express": "^5.0.1",
     "@types/react": "^19.1.0"
   }
 }
